@@ -1,0 +1,38 @@
+[
+ {
+   "Location": "Adilabad",
+   "Vehicle":"0",
+   "Venue Latitude": "19.6641",
+   "Venue Longitude": "78.5320"
+ },
+ {
+   "Location": "Alampur",
+   "Vehicle":"1",
+   "Venue Latitude": "15.8843",
+   "Venue Longitude": "78.1194"
+ },
+ {
+   "Location": "Armoor",
+   "Vehicle":"2",
+   "Venue Latitude": "18.7900",
+   "Venue Longitude": "78.2881"
+ },
+ {
+   "Location": "Balkonda",
+   "Vehicle":"3",
+   "Venue Latitude": "18.8696",
+   "Venue Longitude": "78.3359"
+ },
+ {
+   "Location": "Bhadrachalam",
+   "Vehicle":"4",
+   "Venue Latitude": "17.6688",
+   "Venue Longitude": "80.8936"
+ },
+ {
+   "Location": "Bhainsa",
+   "Vehicle":"5",
+   "Venue Latitude": "19.1031",
+   "Venue Longitude": "77.9653"
+ }
+]
